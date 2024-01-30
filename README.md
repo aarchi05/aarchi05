@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aarchi.
 
-- 🔭 I’m currently working on **That Girl™** & **A Aecret UW Project™**
+- 🔭 I’m currently working on **That Girl™** & **A Secret UW Project™**
 - 👩🏻‍💻 All of my projects are available at [https://aarchisingh.vercel.app](https://aarchisingh.vercel.app)
 
 ### Connect with Me 🤝
